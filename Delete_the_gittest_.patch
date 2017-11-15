@@ -1,0 +1,30 @@
+Index: src/comp1110/ass2/gui/gittest/A.java
+===================================================================
+--- src/comp1110/ass2/gui/gittest/A.java	(revision dd367fbb4786489ecd3818c6f41f7ff4ffcb76da)
++++ src/comp1110/ass2/gui/gittest/A.java	(revision dd367fbb4786489ecd3818c6f41f7ff4ffcb76da)
+@@ -1,10 +0,0 @@
+-package comp1110.ass2.gui.gittest;
+-
+-/**
+- * Created by will on 2017/8/23.
+- */
+-public class A {
+-    public String toString(){
+-        return "";
+-    }
+-}
+Index: src/comp1110/ass2/gui/gittest/Main.java
+===================================================================
+--- src/comp1110/ass2/gui/gittest/Main.java	(revision dd367fbb4786489ecd3818c6f41f7ff4ffcb76da)
++++ src/comp1110/ass2/gui/gittest/Main.java	(revision dd367fbb4786489ecd3818c6f41f7ff4ffcb76da)
+@@ -1,10 +0,0 @@
+-package comp1110.ass2.gui.gittest;
+-
+-/**
+- * Created by will on 2017/8/23.
+- */
+-public class Main {
+-    public void Main() {
+-        B b = new B();
+-    }
+-}

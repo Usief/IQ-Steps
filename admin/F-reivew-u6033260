@@ -1,0 +1,11 @@
+Viewer: Weizhangxian Wang (u6033260)
+Component: Viewer
+Author: Hengrui Wang(u6202156)
+
+View Comments:
+
+1. Viewer.java: 29-85 The best feature of the code is really understandable and concise.
+2. Viewer.java: 18-27 and 45-53 The comments of code are clear and make others easily understand.
+3. Viewer.java: 29-85 The program decomposition is good, he call the method appropriatly.
+4. Viewer.java: all the methods and variables are named well and follow the rules of JAVA.
+5. Viewer.java: 75 the condition of IF-THEN is not appropriate, eg:(i==0 || i%3==0) equals (i%3==0); 68 and 75 The code is repeated.
